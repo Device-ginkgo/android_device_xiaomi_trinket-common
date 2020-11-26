@@ -5,4 +5,3 @@ allow system_app vendor_default_prop:file map;
 allow system_app wificond:binder call;
 allow system_app default_android_service:service_manager { find };
 
-
